@@ -1,0 +1,33 @@
+.jumbotron {
+  background-image: url(images/hydrant.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-weight: bold;
+  color: black;
+}
+
+.mini-img {
+    height: 35px;
+}
+
+#main {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #74a19e;
+}
+
+#logo {
+     float: right;
+     height: 50px;
+}
+
+#contact-main {
+    width: 100%;
+}
+
+#contact-heading {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    background-color: #74a19e;
+}
